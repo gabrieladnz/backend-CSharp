@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\att\\atividade\\Atividade.csproj": {}
+    "C:\\xampp\\htdocs\\att\\Atividade\\Atividade.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\att\\atividade\\Atividade.csproj": {
+    "C:\\xampp\\htdocs\\att\\Atividade\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\att\\atividade\\Atividade.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\att\\Atividade\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "C:\\xampp\\htdocs\\att\\atividade\\Atividade.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\att\\Atividade\\Atividade.csproj",
         "packagesPath": "C:\\Users\\EA\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\att\\atividade\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\att\\Atividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EA\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -5,10 +5,12 @@ using System.Threading.Tasks;
 
 namespace Atividade
 {
-    public class PessoaJuridica
+    // indicando que é uma subclasse
+    public class PessoaJuridica : Clientes
     {
-        public string cnpj;
-        public string ie;
+        // encapsulamento
+        public string cnpj {get; set;}
+        public string ie {get; set;}
         // override = método reescrito contendo o mesmo nome | Polimorfismo
         public override void pagar_Imposto(float v)
         {
